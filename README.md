@@ -4,6 +4,6 @@
 
 - 🌱 Studying Software Engineering at FPT University HCMC.
 - ⚡ Pursuing Android Development as a passion.
-- 😄 Make the world better with software.
+- 😄 Make the world better.
 - 📫 How to reach me: fb.me/ngntanlocc
 
