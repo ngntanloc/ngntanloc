@@ -7,4 +7,4 @@
 - 😄 Make the world better.
 - 📫 How to reach me: fb.me/ngntanlocc
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=ngntanloc&color=FAC151)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=ngntanloc&color=FAC151)
