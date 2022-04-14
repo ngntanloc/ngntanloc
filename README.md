@@ -5,4 +5,4 @@
 - 🌱 Studying Software Engineering at FPT University HCMC.
 - ⚡ Pursuing Mobile Development.
 - 😄 Make the world better.
-- 📫 How to reach me: fb.me/ngntanlocc
+- 📫 How to reach me: nguyentanloc160201@gmail.com
