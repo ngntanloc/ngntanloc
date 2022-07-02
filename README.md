@@ -4,5 +4,6 @@
 
 - 🌱 Studying Software Engineering at FPT University HCMC.
 - ⚡ Pursuing Mobile Development.
+- 🧑‍💻 Android Engineer Intern at Chợ Tốt.
 - 😄 Make the world better.
 - 📫 How to reach me: nguyentanloc160201@gmail.com
