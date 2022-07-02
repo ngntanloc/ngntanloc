@@ -8,4 +8,4 @@
 - 😄 Make the world better.
 - 📫 How to reach me: nguyentanloc160201@gmail.com
 
-[![TanLoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngntanloc&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![TanLoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngntanloc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
